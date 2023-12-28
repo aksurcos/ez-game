@@ -1,5 +1,4 @@
-<h1 align="center">Easy Peasy Game</h1
-<h2 align="center">Rock, Paper, Scissors, Lizard, Spock</h2>
+<h1 align="center">Easy Peasy Game "Rock, Paper, Scissors, Lizard, Spock" </h1>
 
 [Click here to check live project](https://aksurcos.github.io/URL                          //)
 
