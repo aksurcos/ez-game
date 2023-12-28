@@ -16,6 +16,7 @@ Simple, easy-to-use, cliche design for users who want to play nostalgic "Rock, P
 * [Testing](#testing)
 * [Deployment](#deployment)
 * [Credits](#credits)
+  
 ## User Experience (UX)
 
 -   ### User stories
@@ -25,7 +26,7 @@ Simple, easy-to-use, cliche design for users who want to play nostalgic "Rock, P
 
 ## Features
 
-    - Since the time spent on this project was short due to some health issues, the features in the project are limited and simple. Although it is not usual to explain this, this project is almost like a design made on top of another simple project. 
+Since the time spent on this project was short due to some health issues, the features in the project are limited and simple. Although it is not usual to explain this, this project is almost like a design made on top of another simple project. 
 
 ### Existing Features
 
@@ -65,7 +66,30 @@ Simple, easy-to-use, cliche design for users who want to play nostalgic "Rock, P
 -   JavaScript
 -   Visiul Studio Code
 
--   
+## Testing
+
+### Validator Testing and Lighthose
+
+- [HTML Validator](https://validator.w3.org/)
+
+    - result for index.html
+      ![HTML results index]((assets/images/readme/)  
+
+- [CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+    - result for style.css 
+      ![CSS results](assets/images/readme/)
+    The warning is because of import from Google Fonts.
+
+- Lighthouse
+
+    - result for index.html
+      ![lighthouse results index](assets/images/readme/)
+
+  
+  
+
+  
 
 
 
