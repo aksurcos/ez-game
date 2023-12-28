@@ -1,3 +1,5 @@
+<h1 align="center">EASY PEASY GAME</h1
+
 #EASY PEASY GAME
 
 Simple, easy-to-use, cliche design for users who want nostalgic games. Although it is not usual to explain this, this project is like a design made on top of another project.
