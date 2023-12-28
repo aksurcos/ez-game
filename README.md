@@ -58,6 +58,7 @@ Since the time spent on this project was short due to some health issues, the fe
        
 -   ### Font-Type
     -   Coustard is imported from Google Fonts. It has compatible simple looking.
+      [Google Fonts]([https://validator.w3.org](https://fonts.google.com/specimen/Coustard?stroke=Serif)/) 
 
 ## Used Languages, Programmes and Sites
 
@@ -85,6 +86,37 @@ Since the time spent on this project was short due to some health issues, the fe
 
     - result for index.html
       ![lighthouse results index](assets/images/readme/)
+
+  ## Deployment
+
+### Deployment steps
+- On the GitHub repository's own page, click its own "Settings" tab 
+- Choose Pages from the left hand menu 
+- On Pages, below "Build and deployment" section, branch needs to be set as "main" and folder needs to be set as "root"
+- After this settings, the project will be automatically deployed.
+- On the GitHub repository's own page, it will be ready on the right side below Deployments section.
+    
+## Credits
+
+### Icons 
+- [FlatIcon]([https://www.pexels.com/](https://www.flaticon.com)
+- [Font Awesome](https://fontawesome.com/)
+
+### Codes   
+- Code Institute Ready Template
+- The previous project for defaults and README.md
+- [Slightly improved and designed codes for the gaming area's features](https://www.youtube.com/watch?v=wT1pwM7hRtQ/)
+
+### Inspration and Thanking
+While I am aware that this project is slightly simpler than expected, I will be more ready to improve as I prepare for the 3rd project.
+
+- Thank you to my mentor Brian Macharia who that I could not have a contact due to my cognitive problems.
+- Thank you to my dear spouse Mert Can Coskuner who is always with me.
+- Thank you to all helpful Slack Code Institute Community.
+
+
+
+  
 
   
   
