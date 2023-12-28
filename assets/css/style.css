@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Coustard&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;1,100&family=Josefin+Sans:ital,wght@0,200;0,300;1,100;1,200;1,300&family=Kanit:ital,wght@0,400;0,500;1,400&family=Noto+Sans+Linear+B&family=Oswald:wght@300&family=Zilla+Slab:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+
+html {
+    background: linear-gradient(#ffffff, #da7154, #ffffff);    
+}
+
+h1 {
+    text-align: center;
+    font-size: 250%;   
+    color: rgb(16, 1, 1);
+    text-shadow: 1px 2px #000000;    
+    padding: 10px;
+    margin: 0;
+    font-weight: 300;
+    font-family: "Coustard", serif;    
+}
+
+#designed {
+    font-family: "Coustard", serif;
+    font-size: large;
+
+}
+
+
+#game-area {
+	margin: auto;
+	max-width:450px;
+    min-height: 20vh;
+    font-family: "Coustard", serif;              
+	}
+			
+#game-area button {
+    font-size:57px;
+	cursor:pointer;
+	background:transparent;
+	border:none;
+	opacity:0.75;
+	width:19%;
+	
+	}
+			
+#game-area button:hover {
+    opacity:1;
+	}
+			
+#points {
+	font-size:26px;
+	max-width:500px;
+	min-height:32px;
+	margin:5px auto;
+    font-family: "Coustard", serif;
+	}
+			
+#points:before,
+#points:after {
+	content:'';
+	display:block;
+	clear:both;
+			}
+			
+.possibilities{	
+	text-align:center;
+    font-size: x-large;
+    float:left;
+	width:33.33%;
+}
+			
+#outcome {
+	font-size:20px;
+	margin:30px auto;
+	text-align:center;
+	min-height:60px;
+    color:rgb(10, 10, 10);
+    font-family: "Coustard", serif;
+	}
+
+body {
+    margin:0 auto;
+}
+
+/* To push footer down */
+main {          
+    flex: 1 0 auto;                     
+}
+        
+#explaining {
+    text-align: center;    
+}
+
+footer {   
+    bottom: 0px;
+    left: 0px;
+    width: 100%; 
+}
+
+#helpful-links {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;   
+}
+
+#helpful-links i {
+    font-size: 150%;
+    color: rgb(22, 20, 20);
+}
+
+@media screen and (min-width: 576px) {
+
+footer {
+    position:fixed;  
+}
+
+}
