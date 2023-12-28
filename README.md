@@ -98,13 +98,14 @@ Since the time spent on this project was short due to some health issues, the fe
 ## Credits
 
 ### Icons 
-- [FlatIcon]([https://www.pexels.com/](https://www.flaticon.com)
+- [FlatIcon][https://www.pexels.com/](https://www.flaticon.com)
 - [Font Awesome](https://fontawesome.com/)
 
 ### Codes   
 - Code Institute Ready Template
 - The previous project for defaults and README.md
-- [Slightly improved and designed codes for the gaming area's features](https://www.youtube.com/watch?v=wT1pwM7hRtQ/)
+- [Codes for the features](https://www.youtube.com/watch?v=wT1pwM7hRtQ/)
+Slightly improved and designed codes for the gaming area's features
 
 ### Inspration and Thanking
 While I am aware that this project is slightly simpler than expected, I will be more ready to improve as I prepare for the 3rd project.
