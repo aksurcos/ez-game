@@ -1,28 +1,29 @@
-<h1 align="center">EASY PEASY GAME</h1
+<h1 align="center">Easy Peasy Game</h1
+<h2 align="center">"Rock, Paper, Scissors, Lizard, Spock"</h2>
 
-#EASY PEASY GAME
+[Click here to check live project](https://aksurcos.github.io/URL                          //)
 
-Simple, easy-to-use, cliche design for users who want nostalgic games. Although it is not usual to explain this, this project is like a design made on top of another project.
+Simple, easy-to-use, cliche design for users who want to play nostalgic "Rock, Paper, Scissors, Lizard, Spock" game. Since the time spent on this project was short due to some unfortunate events, the features in the project are limited and simple. Although it is not usual to explain this, this project is like a design made on top of another project. 
 
-!Responsive(assets/images/.......filename)
+![responsive](documentation/imagesreadme/iamresponsive.png)
 
-[Click to see deployed website](URL     )
 
-##Table of Content
+## Index – Table of Contents
+* [User Experience (UX)](#user-experience-ux) 
+* [Features](#features)
+* [Design](#design)
+* [Used Languages, Programmes and Sites](#used-languages-programmes-and-sites)
+* [Testing](#testing)
+* [Deployment](#deployment)
+* [Credits](#credits)
+## User Experience (UX)
 
-    -[Easy Peasy Game](#easy-peasy-game)
-        -[Table of Content](#table-of-content)
-        -[Design and User Experience](#design-and-user-experience)
-    -[Features](#features)
-        -[Footer](#footer)       
-        -[Game Area](#game-area)
-    * [Used Languages, Programmes and Sites](#used-languages-programmes-and-sites)
-    -[Testing](#testing)
-        -[Tests](#tests)       
-        -[Validator](#validator)
-        -[Bugs](#Bugs)
-        -[Performance](#performance)
-     -[Deployment](#deployment) 
-        -[Steps]
+-   ### User stories
+
+    -   ####  First Time, Returning and Frequent Visitors
+         Users will play the same nostalgic game and see a "Same-Story" on every visit with new-style design with icons.
+
+
+
 
 
