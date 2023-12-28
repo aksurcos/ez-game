@@ -3,7 +3,7 @@
 
 [Click here to check live project](https://aksurcos.github.io/URL                          //)
 
-Simple, easy-to-use, cliche design for users who want to play nostalgic "Rock, Paper, Scissors, Lizard, Spock" game. Since the time spent on this project was short due to some unfortunate events, the features in the project are limited and simple. Although it is not usual to explain this, this project is like a design made on top of another project. 
+Simple, easy-to-use, cliche design for users who want to play nostalgic "Rock, Paper, Scissors, Lizard, Spock" game.
 
 ![responsive](documentation/imagesreadme/iamresponsive.png)
 
@@ -24,6 +24,8 @@ Simple, easy-to-use, cliche design for users who want to play nostalgic "Rock, P
          Users will play the same nostalgic game and see a "Same-Story" on every visit with new-style design with icons.
 
 ## Features
+
+    - Since the time spent on this project was short due to some health issues, the features in the project are limited and simple. Although it is not usual to explain this, this project is almost like a design made on top of another simple project. 
 
 ### Existing Features
 
@@ -47,15 +49,23 @@ Simple, easy-to-use, cliche design for users who want to play nostalgic "Rock, P
 
 ## Design
 
--   ### Images
-    -  The icons is in harmony with nostalgic game thanks to soft and basic choices.
+-   ### Design
+    -  The icons is in harmony with nostalgic game thanks to soft and basic choices. 
 
 -   ### Color Set
     -  Color palette is chosen as beauty of minimalism.
        
 -   ### Font-Type
     -   Coustard is imported from Google Fonts. It has compatible simple looking.
- 
+
+## Used Languages, Programmes and Sites
+
+-   HTML5
+-   CSS3
+-   JavaScript
+-   Visiul Studio Code
+
+-   
 
 
 
