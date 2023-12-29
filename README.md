@@ -49,7 +49,7 @@ Since the time spent on this project was short due to some health issues, the fe
 
 ## Design
 
--   ### Design
+-   ### General Design
     -  The icons is in harmony with nostalgic game thanks to soft and basic choices. 
 
 -   ### Color Set
@@ -92,9 +92,10 @@ Since the time spent on this project was short due to some health issues, the fe
     
 ## Credits
 
-### Icons 
-- [FlatIcon][https://www.pexels.com/](https://www.flaticon.com)
+### Icons and Images
+- [FlatIcon](https://www.flaticon.com)
 - [Font Awesome](https://fontawesome.com/)
+- [Icons8](https://icons8.com/)
 
 ### Codes   
 - Code Institute Ready Template
