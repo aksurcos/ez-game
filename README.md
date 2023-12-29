@@ -81,7 +81,7 @@ Since the time spent on this project was short due to some health issues, the fe
       ![CSS results](assets/images/readme/cssvalid.png)
     The warning is because of import from Google Fonts.
 
-  ## Deployment
+## Deployment
 
 ### Deployment steps
 - On the GitHub repository's own page, click its own "Settings" tab 
