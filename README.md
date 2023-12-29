@@ -106,6 +106,6 @@ Slightly improved and designed codes for the gaming area's features
 ### Inspration and Thanking
 While I am aware that this project is slightly simpler than expected, I will be more ready to improve programming with JavaScript as I prepare for the 3rd project.
 
-- Thank you to my mentor Brian Macharia who that I could not have a contact due to my cognitive problems.
+- Thank you to my mentor Brian Macharia who I could not have a contact with due to my cognitive problems.
 - Thank you to my dear spouse Mert Can Coskuner who is always with me.
 - Thank you to all helpful Slack Code Institute Community.
