@@ -73,7 +73,7 @@ Since the time spent on this project was short due to some health issues, the fe
 - [HTML Validator](https://validator.w3.org/)
 
     - result for index.html
-      ![HTML results index]((assets/images/readme/htmlvalid.png)  
+      ![HTML results index](assets/images/readme/htmlvalid.png)  
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
@@ -103,25 +103,8 @@ Since the time spent on this project was short due to some health issues, the fe
 Slightly improved and designed codes for the gaming area's features
 
 ### Inspration and Thanking
-While I am aware that this project is slightly simpler than expected, I will be more ready to improve as I prepare for the 3rd project.
+While I am aware that this project is slightly simpler than expected, I will be more ready to improve programming with JavaScript as I prepare for the 3rd project.
 
 - Thank you to my mentor Brian Macharia who that I could not have a contact due to my cognitive problems.
 - Thank you to my dear spouse Mert Can Coskuner who is always with me.
 - Thank you to all helpful Slack Code Institute Community.
-
-
-
-  
-
-  
-  
-
-  
-
-
-
-
-
->>>>>>> 15a11eaba741b0bdbc5f3e0dab2389dcc52ffc84
-
-
