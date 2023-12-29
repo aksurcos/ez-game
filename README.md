@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-=======
 <h1 align="center">Easy Peasy Game "Rock, Paper, Scissors, Lizard, Spock" </h1>
 
-[Click here to check live project](https://aksurcos.github.io/URL                          //)
+[Click here to check live project](https://aksurcos.github.io/ez-game/)
 
 Simple, easy-to-use, cliche design for users who want to play nostalgic "Rock, Paper, Scissors, Lizard, Spock" game.
 
-![responsive](documentation/imagesreadme/iamresponsive.png)
+![responsive](assets/images/readme/responsive.png)
 
 
 ## Index – Table of Contents
@@ -75,18 +73,13 @@ Since the time spent on this project was short due to some health issues, the fe
 - [HTML Validator](https://validator.w3.org/)
 
     - result for index.html
-      ![HTML results index]((assets/images/readme/)  
+      ![HTML results index]((assets/images/readme/htmlvalid.png)  
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
     - result for style.css 
-      ![CSS results](assets/images/readme/)
+      ![CSS results](assets/images/readme/cssvalid.png)
     The warning is because of import from Google Fonts.
-
-- Lighthouse
-
-    - result for index.html
-      ![lighthouse results index](assets/images/readme/)
 
   ## Deployment
 
