@@ -33,13 +33,13 @@ Since the time spent on this project was short due to some health issues, the fe
 
     - Users make their choices by clicking on their choices.
 
-![buttons](assets/images/readme/gamearea.png)
+![buttons](assets/images/readme/buttons.png)
 
 -   __Results__
 
     - Users see the computer's choices and the total amount of win, lose and draw.
 
-![results](assets/images/readme/results.png)
+![results](assets/images/readme/result.png)
 
 -   __Footer__
 
